@@ -5,18 +5,14 @@ Dans ce répertoire P300 doivent se trouver  :
 
 Selon l'arborescence suivante :
 
-  P300
-  |- fCentrageReduction.m
-  |- fLoadP300DataSet.m
-  |- fPcaReduction.m
-  |- ViewP300data.m
-  |- long
-     |- Data_1.mat
-     | .
-     | .
-     | .
-     | Data_20.mat
-
-    
-  
-  
+P300  
+|- fCentrageReduction.m  
+|- fLoadP300DataSet.m  
+|- fPcaReduction.m  
+|- ViewP300data.m  
+|- long  
+&nbsp;&nbsp;&nbsp;&nbsp;|- Data_1.mat  
+&nbsp;&nbsp;&nbsp;&nbsp;| .  
+&nbsp;&nbsp;&nbsp;&nbsp;| .  
+&nbsp;&nbsp;&nbsp;&nbsp;| .  
+&nbsp;&nbsp;&nbsp;&nbsp;|- Data_20.mat  
